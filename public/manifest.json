@@ -1,0 +1,13 @@
+{
+  "short_name": "Chit Chat",
+  "name": "Chit Chat",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Chit Chat"
+  },
+  "permissions": [
+   "activeTab"
+ ],
+  "version": "1.0"
+}

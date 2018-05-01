@@ -1,0 +1,39 @@
+.MenuInterface {
+  height: 100%;
+  background-color: rgb(252, 252, 252);
+}
+
+.MenuButton:hover {
+  background-color: #e7e7e7;
+}
+
+.Avatar {
+  transition: .5s ease;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.Avatar:hover {}
+
+.ImageUpload>input {
+  display: none;
+  cursor: pointer;
+}
+
+.ImageContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.InputButton {
+  display: none;
+}
+
+.NickNameBoxContainer {
+  justify-content: center;
+  display: flex;
+}
+
+.NickNameBox>input {
+  text-align: center;
+}
