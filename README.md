@@ -1,2 +1,3 @@
 ## Chit Chat
-A simple chat application
+A simple chat application where you can join others talking about a trending topic. Its a chrome extension chatbox....
+
